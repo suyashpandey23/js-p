@@ -119,6 +119,7 @@ const smp = [
 ];
 
 console.log(smp[0].metadata.city);
+console.log(1);
 
 function sum(num1,num2,fntocall){
     let res=num1+num2;
