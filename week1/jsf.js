@@ -17,7 +17,7 @@ if (ismarried == true) {
   console.log(fname + " is not married ");
 }
 
-// let ans = 0;
+let ans = 0;
 for (let index = 0; index <= 100; index++) {
   ans += index;
 }
@@ -179,3 +179,8 @@ setTimeout(greet, 3 * 1000);
 
  
 
+
+
+// git remote add origin https://github.com/suyashpandey23/js-p.git
+// git branch -M main
+// git push -u origin main
